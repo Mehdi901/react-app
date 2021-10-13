@@ -1,0 +1,45 @@
+webpackHotUpdate("main",{
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/App.css":
+false,
+
+/***/ "./src/App.css":
+false,
+
+/***/ "./src/App.js":
+/*!********************!*\
+  !*** ./src/App.js ***!
+  \********************/
+/*! exports provided: default */
+/***/ (function(module, exports) {
+
+throw new Error("Module build failed (from ./node_modules/babel-loader/lib/index.js):\nSyntaxError: C:\\Users\\HP\\OneDrive\\Bureau\\new\\src\\App.js: Unexpected token (29:4)\n\n\u001b[0m \u001b[90m 27 |\u001b[39m      \u001b[0m\n\u001b[0m \u001b[90m 28 |\u001b[39m      \u001b[0m\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 29 |\u001b[39m     \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33mdiv\u001b[39m\u001b[33m>\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m    |\u001b[39m     \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 30 |\u001b[39m  )\u001b[0m\n\u001b[0m \u001b[90m 31 |\u001b[39m }\u001b[33m;\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 32 |\u001b[39m\u001b[0m\n    at Object._raise (C:\\Users\\HP\\OneDrive\\Bureau\\new\\node_modules\\@babel\\parser\\lib\\index.js:541:17)\n    at Object.raiseWithData (C:\\Users\\HP\\OneDrive\\Bureau\\new\\node_modules\\@babel\\parser\\lib\\index.js:534:17)\n    at Object.raise (C:\\Users\\HP\\OneDrive\\Bureau\\new\\node_modules\\@babel\\parser\\lib\\index.js:495:17)\n    at Object.unexpected (C:\\Users\\HP\\OneDrive\\Bureau\\new\\node_modules\\@babel\\parser\\lib\\index.js:3550:16)\n    at Object.jsxParseIdentifier (C:\\Users\\HP\\OneDrive\\Bureau\\new\\node_modules\\@babel\\parser\\lib\\index.js:7229:12)\n    at Object.jsxParseNamespacedName (C:\\Users\\HP\\OneDrive\\Bureau\\new\\node_modules\\@babel\\parser\\lib\\index.js:7239:23)\n    at Object.jsxParseElementName (C:\\Users\\HP\\OneDrive\\Bureau\\new\\node_modules\\@babel\\parser\\lib\\index.js:7250:21)\n    at Object.jsxParseOpeningElementAt (C:\\Users\\HP\\OneDrive\\Bureau\\new\\node_modules\\@babel\\parser\\lib\\index.js:7337:22)\n    at Object.jsxParseElementAt (C:\\Users\\HP\\OneDrive\\Bureau\\new\\node_modules\\@babel\\parser\\lib\\index.js:7370:33)\n    at Object.jsxParseElementAt (C:\\Users\\HP\\OneDrive\\Bureau\\new\\node_modules\\@babel\\parser\\lib\\index.js:7386:32)");
+
+/***/ }),
+
+/***/ "./src/logo.svg":
+false,
+
+/***/ "./src/projet/Navbar.js":
+false,
+
+/***/ "./src/projet/div1.js":
+false,
+
+/***/ "./src/projet/section start.js":
+false,
+
+/***/ "./src/projet/section-inner.js":
+false,
+
+/***/ "./src/projet/section3.js":
+false,
+
+/***/ "./src/projet/section4.js":
+false,
+
+/***/ "./src/projet/services section.js":
+false
+
+})
+//# sourceMappingURL=main.2c47d4ed3916ed6976e7.hot-update.js.map
